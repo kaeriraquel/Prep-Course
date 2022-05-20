@@ -17,7 +17,7 @@
 #### Continuación de bucles ***for*** y ***arrays***
 
 En esta lección cubriremos:
-
+ 
 * Introducción a los arrays
 * Bucles ***for*** con arrays
 
@@ -142,7 +142,7 @@ for (let i = 0; i < nombresEstudiantes.length; i++) {
 ```
 
 ## Recursos adicionales
-
+ 
 * [MDN: Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 * [MDN: for Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
 
